@@ -1,0 +1,10 @@
+jdp098@jdp098:~$ ./envScript.sh
+Welcome to COSC2347 C executing on host jdp098 running linux-gnu.
+Your user id is jdp098 in home directory /home/jdp098.
+Your system is executing version 5.0.17(1)-release
+Your current path is /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin, present working directory /home/jdp098.
+Your previous working directory was .
+The process ID of the interpreter 3091.
+
+after a 20 second nap, you have been running 20 seconds
+
